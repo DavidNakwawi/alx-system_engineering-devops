@@ -1,1 +1,1 @@
-shell basics
+school.mgc
